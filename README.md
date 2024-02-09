@@ -1,6 +1,6 @@
 # Repository of Material for the 6th i-CoMSE Workshop: Methods for Advanced Sampling
 
-### Dates: Feb 12-16, 2023
+### Dates: Feb 12-16, 2024
 
 ### Requirements:
 [See the following link for setting up software](settingup.md)
