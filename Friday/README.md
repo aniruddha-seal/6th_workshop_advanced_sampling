@@ -15,9 +15,9 @@
 - Slide for FFS/cFFS session can be found [here](https://github.com/icomse/3rd_workshop_advanced_sampling/blob/main/Friday/2023-iCoMSE-PathSampling-P2-FFScFFS.pdf)
 
 ## Videos: 
-- [Video fpr FFS explanatipn](https://www.youtube.com/watch?v=xfzFO4RkGM8)
-- [Video for cFFS explanantion](https://www.youtube.com/watch?v=xfzFO4RkGM8)
-- [Video for FFS tutorial](https://www.youtube.com/watch?v=04Dxm57VLMI)
+- [Video for FFS explanation]
+- [Video for cFFS explanantion]
+- [Video for FFS tutorial]
 
 ## Getting setup and downloading the tutorials (NOTE: much of the material about accessing computing resources was for the workshop, and will not be available for people viewing the information after the workshop)
 
