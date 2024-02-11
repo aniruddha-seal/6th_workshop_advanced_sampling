@@ -9,7 +9,7 @@
 
 ### Slides
 
-TBD
+[Preliminary slides for Monday](https://github.com/icomse/6th_workshop_advanced_sampling/edit/main/Monday/Enhanced%sampling%20workshop%202024.pdf)
 
 ### Videos
 
