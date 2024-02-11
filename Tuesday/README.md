@@ -9,7 +9,9 @@
 - [@OmarValsson](https://twitter.com/OmarValsson)
 
 ## Setup 
-This tutorial will be run through a Jupyter Notebook via OnDemand. Thus, access the OnDemand in the usual way and create a new Jupyter Notebook instance, and load the `MetaD-Tutorial.ipynb` notebook. Further information concerning software setup is given in the `MetaD-Tutorial.ipynb` notebook. 
+This tutorial will be run through a Jupyter Notebook via OnDemand. Thus, access the OnDemand in the usual way and create a new Jupyter Notebook instance, and load the `MetaD-Tutorial.ipynb` notebook. 
+
+Further information concerning software setup is given in the `MetaD-Tutorial.ipynb` notebook. 
 
 ## Slides
 
