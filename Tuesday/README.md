@@ -8,13 +8,18 @@
 - omar.valsson@unt.edu
 - [@OmarValsson](https://twitter.com/OmarValsson)
 
+## Setup 
+This tutorial will be run through a Jupyter Notebook via OnDemand. Thus, access the OnDemand in the usual way and create a new Jupyter Notebook instance, and load the `MetaD-Tutorial.ipynb` notebook. 
+
+Further information concerning software setup is given in the `MetaD-Tutorial.ipynb` notebook. 
+
 ## Slides
 
-TBD
+To be added.
 
 ## Videos
 
-TDB
+To be added. 
 
 ## Resources
 
@@ -61,8 +66,4 @@ TDB
 ### Other usefuls resources
 - [Graph](https://www.desmos.com/calculator/nqujdsvj0z) of a rational switching function
 
-## Setup 
-This tutorial will be run through a Jupyter notebook via OnDemand. Thus, access the OnDemand in the normal way and create a new jupyter notebook instance and load the `MetaD-Tutorial.ipynb` notebook. 
-
-**Note: here we will use the normal Python kernel, not the icomse-cpu one**
 
