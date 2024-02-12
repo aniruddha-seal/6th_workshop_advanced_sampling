@@ -175,3 +175,37 @@ def print_op(op_xtype,op_ytype,op_xcoef,op_ycoef):
                             op_func += f"{op_ycoef[i]}y\u00b3 "
                     yes = True
         print(op_func+"\n")
+
+def place_interface(interface, space, sp_lim,op_xtype, op_ytype, op_xcoef, op_ycoef):
+    inter = [[],[]]
+    print(f"Starting to place...", end="\r")
+    space_op = np.zeros((len(space),len(space)))
+    if len(op_xcoef) != op_xtype:
+        sys.exit("Invalid op_xtype and op_xcoef pairing")
+    if len(op_ycoef) != op_ytype:
+        sys.exit("Invalid op_ytype and op_ycoef pairing")
+    x_vec = [space**k for k in range(1,op_xtype+1)]
+    y_vec = [space**k for k in range(1,op_ytype+1)]
+    space_xop = np.dot(op_xcoef,x_vec)
+    matrix = space_xop * np.ones((space.shape[0],space.shape[0]))
+    
+    space_yop = np.dot(op_ycoef,y_vec)
+    space_op = matrix.T + space_yop
+    
+    bottom = -(sp_lim/space.shape[0]/2)
+    top = (sp_lim/space.shape[0]/2)
+    
+    diff = ((abs(interface))**(1/max(op_xtype,op_ytype)))
+    exponent = (1/max(op_xtype,op_ytype))
+    
+    op_mod = np.abs(space_op)**exponent-diff
+    mat1 = np.logical_and(bottom < op_mod, op_mod < top)
+    mat2 = np.logical_and(space_op*interface > 0, mat1)
+    
+    args = np.argwhere(mat2).T
+    
+    for i in range(len(args[0])):
+        print(f"Placing... {i+1}/{len(args[0])}", end="\r")
+        inter[0].append(space[args[0][i]])
+        inter[1].append(space[args[1][i]])
+    return inter
