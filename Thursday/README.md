@@ -12,7 +12,7 @@
 - Naomi Trampe
 
 ## Slides 
-- Slides for for TPS/TIS/RETIS session can be found [here](https://github.com/icomse/3rd_workshop_advanced_sampling/blob/main/Thursday/2023-iCoMSE-PathSampling-P1-TPSTIS.pdf)
+- Slides for for TPS/TIS/RETIS session can be found [here](https://github.com/icomse/6th_workshop_advanced_sampling/blob/main/Thursday/2023-iCoMSE-PathSampling-P1-TPSTIS.pdf)
 
 ## Getting setup and downloading the tutorials ((NOTE: much of the material about accessing computing resources was for the workshop, and will not be available for people viewing the information after the workshop)
 
@@ -23,7 +23,7 @@
   - Number of nodes = 1
   - Account = see220002p
   - Partition = RM-shared**
-  - Extra Slurm Args = -n 1
+  - Extra Slurm Args = -n 8
 
 - After that, click on “Connect to Jupyter”. From here you should see a startup page which should have an option for you to open a “Terminal”.
 
@@ -39,7 +39,7 @@
 
 This tutorial will be run through Jupyter notebooks (located in the directory at the left of your screen) via OnDemand. For each Jupyter notebook, please make sure to switch your kernel to “icomse-cpu” kernel.
 
-Note: For participants without Bridges2 access, please refer to this link: [https://github.com/icomse/3rd_workshop_advanced_sampling/blob/main/settingup.md](y) for environment setup instructions
+Note: For participants without Bridges2 access, please refer to this link: [https://github.com/icomse/6th_workshop_advanced_sampling/blob/main/settingup.md](y) for environment setup instructions
 
 - In this tutorial, you will see Jupyter notebooks for each toy model of each path sampling method: TPS, TIS, RETIS. 
   - TPS = Transition path sampling
