@@ -17,7 +17,7 @@ Further information concerning software setup is given in the `MetaD-Tutorial.ip
 
 ## Slides
 
-To be added.
+The slides can be found [here](https://github.com/icomse/6th_workshop_advanced_sampling/blob/main/Tuesday/i-CoMSE-Workshop-Metadynamics-Feb13-2024)
 
 ## Videos
 
