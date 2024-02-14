@@ -9,13 +9,15 @@
 - [@OmarValsson](https://twitter.com/OmarValsson)
 
 ## Setup 
-This tutorial will be run through a Jupyter Notebook via OnDemand. Thus, access the OnDemand in the usual way and create a new Jupyter Notebook instance, and load the `MetaD-Tutorial.ipynb` notebook. 
+This tutorial will be run through a Jupyter Notebook via OnDemand. Thus, access the OnDemand in the usual way and create a new Jupyter Notebook instance. 
+
+I recommend copying/duplicating the `MetaD-Tutorial-Clean.ipynb` notebook into a new notebook, `MetaD-Tutorial.ipynb`, and working on that one to avoid issues with git. 
 
 Further information concerning software setup is given in the `MetaD-Tutorial.ipynb` notebook. 
 
 ## Slides
 
-To be added.
+The slides can be found [here](https://github.com/icomse/6th_workshop_advanced_sampling/blob/main/Tuesday/i-CoMSE-Workshop-Metadynamics-Feb13-2024.pdf)
 
 ## Videos
 
