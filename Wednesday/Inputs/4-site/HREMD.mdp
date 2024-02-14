@@ -16,7 +16,6 @@ compressed-x-grps        = LIG
 
 ; Neighborsearching and short-range nonbonded interactions
 nstlist                  = 10
-ns_type                  = grid
 pbc                      = xyz
 rlist                    = 0.7
 
