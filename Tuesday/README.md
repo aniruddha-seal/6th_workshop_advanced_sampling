@@ -58,6 +58,9 @@ To be added.
 - https://doi.org/10.1021/acs.jctc.3c00660
 - https://doi.org/10.1021/acs.jctc.2c01085
 - https://doi.org/10.1021/acs.jctc.3c00641
+- https://doi.org/10.1021/acs.biochem.8b00977
+- https://doi.org/10.3389/fmolb.2022.899805
+- https://doi.org/10.1016/j.sbi.2020.06.022
 
 ### Reviews and other useful papers about collective variables
 - https://doi.org/10.1021/acsomega.2c06310
