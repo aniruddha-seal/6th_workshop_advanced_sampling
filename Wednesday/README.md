@@ -21,12 +21,14 @@ TBD
 ## Outline
 Here is the outline of this session, which alternatives between lecture sections and hands-on exercises:
 - Introduction to High-Performing Computing (HPC) systems 
-  [Exercise 1: Performing decoupled MD simulations in parallel
-- Introduction to umbrella sampling 
-- Exercise 2: Umbrella sampling
+  [Exercise 1](https://github.com/icomse/6th_workshop_advanced_sampling/tree/main/Wednesday/Exercise_1): Performing decoupled MD simulations in parallel
 - Introduction to multiple walkers metadynamics
-- Exercise 3: Multiple walker metadynamics
+- [Exercise 2](https://github.com/icomse/6th_workshop_advanced_sampling/tree/main/Wednesday/Exercise_2): Multiple walker metadynamics]
+- Introduction to umbrella sampling 
+- [Exercise 3](https://github.com/icomse/6th_workshop_advanced_sampling/tree/main/Wednesday/Exercise_3): Umbrella sampling]
+- Constructing biases from simulations
+- [Exercise 4](https://github.com/icomse/6th_workshop_advanced_sampling/tree/main/Wednesday/Exercise_4): Replica exchange umbrella sampling]
 - Introduction to temperature and Hamiltonian replica exchange
-- Exercise 4: Hamiltonian replica exchange
+- [Exercise 5](https://github.com/icomse/6th_workshop_advanced_sampling/tree/main/Wednesday/Exercise_5): Alchemical replica exchange]
 - Introduction to other replica exchange methods and hybrid methods
-- Exercise 5: Replica exchange umbrella sampling
+
