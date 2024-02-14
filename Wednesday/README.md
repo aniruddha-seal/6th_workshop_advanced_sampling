@@ -20,8 +20,8 @@ TBD
 
 ## Outline
 Here is the outline of this session, which alternatives between lecture sections and hands-on exercises:
-- Introduction to High-Performing Computing (HPC) systems 
-  [Exercise 1](https://github.com/icomse/6th_workshop_advanced_sampling/tree/main/Wednesday/Exercise_1): Performing decoupled MD simulations in parallel
+- Introduction to High-Performing Computing (HPC) systems
+- [Exercise 1](https://github.com/icomse/6th_workshop_advanced_sampling/tree/main/Wednesday/Exercise_1): Performing decoupled MD simulations in parallel
 - Introduction to multiple walkers metadynamics
 - [Exercise 2](https://github.com/icomse/6th_workshop_advanced_sampling/tree/main/Wednesday/Exercise_2): Multiple walker metadynamics]
 - Introduction to umbrella sampling 
