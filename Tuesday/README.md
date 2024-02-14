@@ -52,6 +52,12 @@ To be added.
 - https://doi.org/10.1007/978-3-319-44677-6_49
 - https://doi.org/10.1007/978-1-4939-9608-7_21 (also https://arxiv.org/abs/1812.08213)
 - https://doi.org/10.1039/d1cp04809k
+- https://doi.org/10.1021/acs.jpclett.3c03542
+
+### Review papers about obtaining kinetics from enhanced sampling
+- https://doi.org/10.1021/acs.jctc.3c00660
+- https://doi.org/10.1021/acs.jctc.2c01085
+- https://doi.org/10.1021/acs.jctc.3c00641
 
 ### Reviews and other useful papers about collective variables
 - https://doi.org/10.1021/acsomega.2c06310
