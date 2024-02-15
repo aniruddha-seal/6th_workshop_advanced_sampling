@@ -14,7 +14,7 @@
 ## Slides 
 - Slides for for TPS/TIS/RETIS session can be found [here](https://github.com/icomse/6th_workshop_advanced_sampling/blob/main/Thursday/2023-iCoMSE-PathSampling-P1-TPSTIS.pdf)
 
-## Getting setup and downloading the tutorials ((NOTE: much of the material about accessing computing resources was for the workshop, and will not be available for people viewing the information after the workshop)
+## Getting setup and downloading the tutorials (NOTE: much of the material about accessing computing resources was for the workshop, and will not be available for people viewing the information after the workshop)
 
 - To get this started, please login to Bridges2 OnDemand via: https://ondemand.bridges2.psc.edu/pun/sys/dashboard/
 
@@ -23,7 +23,7 @@
   - Number of nodes = 1
   - Account = see220002p
   - Partition = RM-shared**
-  - Extra Slurm Args = -n 8
+  - Extra Slurm Args = -n 5
 
 - After that, click on “Connect to Jupyter”. From here you should see a startup page which should have an option for you to open a “Terminal”.
 
