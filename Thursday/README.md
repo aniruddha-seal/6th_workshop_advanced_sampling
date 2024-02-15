@@ -49,27 +49,27 @@ Note: For participants without Bridges2 access, please refer to this link: [http
 - Within each notebook, you will find short descriptions of what each notebook does and the learning objectives for that exercise.
 
 ## Literatures regarding TPS, TIS, RETIS
-- [https://doi.org/10.1146/annurev.physchem.53.082301.113146](url)
-- [https://doi.org/10.1002/9780470890905.ch3](url)
-- [http://dx.doi.org/10.1063/1.1562614](url)
-- [https://doi.org/10.1016/j.jcp.2004.11.003](url)
-- [https://doi.org/10.1063/1.4989844](url)
-- [https://doi.org/10.1063/1.2976011](url)
-- [https://doi.org/10.1063/5.0080053 ](url)
+- [https://doi.org/10.1146/annurev.physchem.53.082301.113146](https://doi.org/10.1146/annurev.physchem.53.082301.113146)
+- [https://doi.org/10.1002/9780470890905.ch3](https://doi.org/10.1002/9780470890905.ch3)
+- [http://dx.doi.org/10.1063/1.1562614](http://dx.doi.org/10.1063/1.1562614)
+- [https://doi.org/10.1016/j.jcp.2004.11.003](https://doi.org/10.1016/j.jcp.2004.11.003)
+- [https://doi.org/10.1063/1.4989844](https://doi.org/10.1063/1.4989844)
+- [https://doi.org/10.1063/1.2976011](https://doi.org/10.1063/1.2976011)
+- [https://doi.org/10.1063/5.0080053](https://doi.org/10.1063/5.0080053)
 ## Literatures regarding maximum likelihood estimation (MLE) for obtaining RC and reweighted path ensembles (RPE) 
-- [https://doi.org/10.1063/1.2234477](url)
-- [https://doi.org/10.1063/1.2409924](url)
-- [https://doi.org/10.1146/annurev-physchem-040215-112215](url)
-- [https://doi.org/10.1007/s10955-011-0324-6](url)
-- [https://doi.org/10.1063/1.3651367](url)
-- [https://doi.org/10.1063/1.3491817](url)
+- [https://doi.org/10.1063/1.2234477](https://doi.org/10.1063/1.2234477)
+- [https://doi.org/10.1063/1.2409924](https://doi.org/10.1063/1.2409924)
+- [https://doi.org/10.1146/annurev-physchem-040215-112215](https://doi.org/10.1146/annurev-physchem-040215-112215)
+- [https://doi.org/10.1007/s10955-011-0324-6](https://doi.org/10.1007/s10955-011-0324-6)
+- [https://doi.org/10.1063/1.3651367](https://doi.org/10.1063/1.3651367)
+- [https://doi.org/10.1063/1.3491817](https://doi.org/10.1063/1.3491817)
 ## Literatures regarding infRETIS
-- [https://doi.org/10.1021/acs.jpca.2c06004](url)
-- [https://doi.org/10.1073/pnas.2318731121](url)
+- [https://doi.org/10.1021/acs.jpca.2c06004](https://doi.org/10.1021/acs.jpca.2c06004)
+- [https://doi.org/10.1073/pnas.2318731121](https://doi.org/10.1073/pnas.2318731121)
 ## Literatures regarding ML with TPS
-- [https://doi.org/10.1038/s43588-023-00428-z](url)
-- [https://doi.org/10.1021/acs.jctc.3c00821](url)
-- [https://doi.org/10.1088/2632-2153/acf55c](url)
+- [https://doi.org/10.1038/s43588-023-00428-z](https://doi.org/10.1038/s43588-023-00428-z)
+- [https://doi.org/10.1021/acs.jctc.3c00821](https://doi.org/10.1021/acs.jctc.3c00821)
+- [https://doi.org/10.1088/2632-2153/acf55c](https://doi.org/10.1088/2632-2153/acf55c)
 
 
 
