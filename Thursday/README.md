@@ -30,10 +30,8 @@
   - `$ cd [YOUR iCoMSE DIRECTORY]`
 
 - Then using the command
-  - `$ git pull`: This will allow you to download the latest version of contents within the iCoMSE repository. (note: you will need to first clone this repository before fetching)
- 
- In addition to the Monday - Wednesday directories, you should now also see Thursday and Friday directories 
- 
+  - `$ git pull`: This will allow you to download the latest version of contents within the iCoMSE repository.
+  
 ## Thursday Tutorials (Toy models of path sampling methods):
 This tutorial will be run through Jupyter notebooks (located in the directory at the left of your screen) via OnDemand. For each Jupyter notebook, please make sure to switch your kernel to “icomse-cpu” kernel.
 
