@@ -111,68 +111,132 @@ def print_op(op_xtype,op_ytype,op_xcoef,op_ycoef):
         for i in range(len(op_xcoef)):
             if op_xcoef[i] != 0:
                 if yes:
-                    if op_xcoef[i] == 1:
-                        if i == 0:
-                            op_func += f"+ x "
-                        if i == 1:
-                            op_func += f"+ x\u00b2 "
-                        if i == 2:
-                            op_func += f"+ x\u00b3 "
+                    if abs(op_xcoef[i]) == 1:
+                        if op_xcoef[i] > 0:
+                            if i == 0:
+                                op_func += f"+ x "
+                            if i == 1:
+                                op_func += f"+ x\u00b2 "
+                            if i == 2:
+                                op_func += f"+ x\u00b3 "
+                        else:
+                            if i == 0:
+                                op_func += f"- x "
+                            if i == 1:
+                                op_func += f"- x\u00b2 "
+                            if i == 2:
+                                op_func += f"- x\u00b3 "
                     else:
-                        if i == 0:
-                            op_func += f"+ {op_xcoef[i]}x "
-                        if i == 1:
-                            op_func += f"+ {op_xcoef[i]}x\u00b2 "
-                        if i == 2:
-                            op_func += f"+ {op_xcoef[i]}x\u00b3 "
+                        if op_xcoef[i] > 0:
+                            if i == 0:
+                                op_func += f"+ {op_xcoef[i]}x "
+                            if i == 1:
+                                op_func += f"+ {op_xcoef[i]}x\u00b2 "
+                            if i == 2:
+                                op_func += f"+ {op_xcoef[i]}x\u00b3 "
+                        else:
+                            if i == 0:
+                                op_func += f"- {op_xcoef[i]}x "
+                            if i == 1:
+                                op_func += f"- {op_xcoef[i]}x\u00b2 "
+                            if i == 2:
+                                op_func += f"- {op_xcoef[i]}x\u00b3 "
                 else:
-                    if op_xcoef[i] == 1:
-                        if i == 0:
-                            op_func += f"x "
-                        if i == 1:
-                            op_func += f"x\u00b2 "
-                        if i == 2:
-                            op_func += f"x\u00b3 "
+                    if abs(op_xcoef[i]) == 1:
+                        if op_xcoef[i] > 0:
+                            if i == 0:
+                                op_func += f"x "
+                            if i == 1:
+                                op_func += f"x\u00b2 "
+                            if i == 2:
+                                op_func += f"x\u00b3 "
+                        else:
+                            if i == 0:
+                                op_func += f"-x "
+                            if i == 1:
+                                op_func += f"-x\u00b2 "
+                            if i == 2:
+                                op_func += f"-x\u00b3 "
                     else:
-                        if i == 0:
-                            op_func += f"{op_xcoef[i]}x "
-                        if i == 1:
-                            op_func += f"{op_xcoef[i]}x\u00b2 "
-                        if i == 2:
-                            op_func += f"{op_xcoef[i]}x\u00b3 "
+                        if op_xcoef[i] > 0:
+                            if i == 0:
+                                op_func += f"{op_xcoef[i]}x "
+                            if i == 1:
+                                op_func += f"{op_xcoef[i]}x\u00b2 "
+                            if i == 2:
+                                op_func += f"{op_xcoef[i]}x\u00b3 "
+                        else:
+                            if i == 0:
+                                op_func += f"-{op_xcoef[i]}x "
+                            if i == 1:
+                                op_func += f"-{op_xcoef[i]}x\u00b2 "
+                            if i == 2:
+                                op_func += f"-{op_xcoef[i]}x\u00b3 "
                     yes = True
         for i in range(len(op_ycoef)):
             if op_ycoef[i] != 0:
                 if yes:
-                    if op_ycoef[i] == 1:
-                        if i == 0:
-                            op_func += f"+ y "
-                        if i == 1:
-                            op_func += f"+ y\u00b2 "
-                        if i == 2:
-                            op_func += f"+ y\u00b3 "
+                    if abs(op_ycoef[i]) == 1:
+                        if op_ycoef[i] > 0:
+                            if i == 0:
+                                op_func += f"+ y "
+                            if i == 1:
+                                op_func += f"+ y\u00b2 "
+                            if i == 2:
+                                op_func += f"+ y\u00b3 "
+                        else:
+                            if i == 0:
+                                op_func += f"- y "
+                            if i == 1:
+                                op_func += f"- y\u00b2 "
+                            if i == 2:
+                                op_func += f"- y\u00b3 "
                     else:
-                        if i == 0:
-                            op_func += f"+ {op_ycoef[i]}y "
-                        if i == 1:
-                            op_func += f"+ {op_ycoef[i]}y\u00b2 "
-                        if i == 2:
-                            op_func += f"+ {op_ycoef[i]}y\u00b3 "
+                        if op_ycoef[i] > 0:
+                            if i == 0:
+                                op_func += f"+ {op_ycoef[i]}y "
+                            if i == 1:
+                                op_func += f"+ {op_ycoef[i]}y\u00b2 "
+                            if i == 2:
+                                op_func += f"+ {op_ycoef[i]}y\u00b3 "
+                        else:
+                            if i == 0:
+                                op_func += f"- {op_ycoef[i]}y "
+                            if i == 1:
+                                op_func += f"- {op_ycoef[i]}y\u00b2 "
+                            if i == 2:
+                                op_func += f"- {op_ycoef[i]}y\u00b3 "
                 else:
-                    if op_ycoef[i] == 1:
-                        if i == 0:
-                            op_func += f"y "
-                        if i == 1:
-                            op_func += f"y\u00b2 "
-                        if i == 2:
-                            op_func += f"y\u00b3 "
+                    if abs(op_ycoef[i]) == 1:
+                        if op_ycoef[i] > 0:
+                            if i == 0:
+                                op_func += f"y "
+                            if i == 1:
+                                op_func += f"y\u00b2 "
+                            if i == 2:
+                                op_func += f"y\u00b3 "
+                        else:
+                            if i == 0:
+                                op_func += f"-y "
+                            if i == 1:
+                                op_func += f"-y\u00b2 "
+                            if i == 2:
+                                op_func += f"-y\u00b3 "
                     else:
-                        if i == 0:
-                            op_func += f"{op_ycoef[i]}y "
-                        if i == 1:
-                            op_func += f"{op_ycoef[i]}y\u00b2 "
-                        if i == 2:
-                            op_func += f"{op_ycoef[i]}y\u00b3 "
+                        if op_ycoef[i] > 0:
+                            if i == 0:
+                                op_func += f"{op_ycoef[i]}y "
+                            if i == 1:
+                                op_func += f"{op_ycoef[i]}y\u00b2 "
+                            if i == 2:
+                                op_func += f"{op_ycoef[i]}y\u00b3 "
+                        else:
+                            if i == 0:
+                                op_func += f"-{op_ycoef[i]}y "
+                            if i == 1:
+                                op_func += f"-{op_ycoef[i]}y\u00b2 "
+                            if i == 2:
+                                op_func += f"-{op_ycoef[i]}y\u00b3 "
                     yes = True
         print(op_func+"\n")
 
