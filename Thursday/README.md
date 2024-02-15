@@ -70,4 +70,11 @@ Note: For participants without Bridges2 access, please refer to this link: [http
 - [https://doi.org/10.1088/2632-2153/acf55c](https://doi.org/10.1088/2632-2153/acf55c)
 
 
+## Literature on Trauma-informed pedagogy:
+- [Trauma-informed practices for Postsecondary Education](https://educationnorthwest.org/sites/default/files/resources/trauma-informed-practices-postsecondary-508.pdf)
+- [Trauma-informed pedagogy](https://library.guilford.edu/c.php?g=1063074&p=7748823)
+- [Creating Cultures of Trauma informed Care](https://www.theannainstitute.org/CCTICSELFASSPP.pdf)
+
+
+
 
