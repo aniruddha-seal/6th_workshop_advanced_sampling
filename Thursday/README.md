@@ -28,10 +28,10 @@
 - After that, click on “Connect to Jupyter”. From here you should see a startup page which should have an option for you to open a “Terminal”.
 
 - Then go into your iCoMSE directory by using the command: 
-  - “$ cd [YOUR iCoMSE DIRECTORY]”
+  - `$ cd [YOUR iCoMSE DIRECTORY]`
 
 - Then using the command
-  - “$ git fetch”: This will allow you to download the latest version of contents within the iCoMSE repository. (note: you will need to first clone this repository before fetching)
+  - `$ git fetch`: This will allow you to download the latest version of contents within the iCoMSE repository. (note: you will need to first clone this repository before fetching)
  
  In addition to the Monday - Wednesday directories, you should now also see Thursday and Friday directories 
  
