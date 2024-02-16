@@ -40,7 +40,17 @@
 
 ## Cutting edge questions
 
-How do I find good collective variabies?
+Getting kinetics from enhanced sampling
+
+### Review papers about obtaining kinetics from enhanced sampling
+- [Predicting Biomolecular Binding Kinetics: A Review](https://doi.org/10.1021/acs.jctc.2c01085)
+- [Kinetics from Metadynamics: Principles, Applications, and Outlook](https://doi.org/10.1021/acs.jctc.3c00660)
+- [Perspectives on Ligand/Protein Binding Kinetics Simulations: Force Fields, Machine Learning, Sampling, and User-Friendliness](https://doi.org/10.1021/acs.jctc.3c00641)
+- [Recent progress in molecular simulation methods for drug binding kinetics](https://doi.org/10.1016/j.sbi.2020.06.022)
+- [Enhanced-Sampling Simulations for the Estimation of Ligand Binding Kinetics: Current Status and Perspective](https://doi.org/10.3389/fmolb.2022.899805)
+- [Kinetics of Ligand–Protein Dissociation from All-Atom Simulations: Are We There Yet?](https://pubs.acs.org/doi/10.1021/acs.biochem.8b00977)
+
+How do I find good collective variables?
 
 ### Reviews and other useful papers about collective variables
 - [Reaction coordinates in complex systems-a perspective](https://doi.org/10.1140/epjb/s10051-021-00233-5)
