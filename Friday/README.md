@@ -53,25 +53,16 @@ Note: For participants without Bridges2 access, please refer to this link: [http
 
 - Within each notebook, you will find short descriptions of what each notebook does and the learning objectives for that exercise.
 
-# Simulation of LiF Dissociation using RETIS and FFS
+## Literature regarding FFS and cFFS
+- Simulating rare events in equilibrium or nonequilibrium stochastic systems [https://doi.org/10.1063/1.2140273](https://doi.org/10.1063/1.2140273)
+- Forward flux sampling-type schemes for simulating rare events: Efficiency analysis [https://doi.org/10.1063/1.2198827](https://doi.org/10.1063/1.2198827)
+- Optimizing the sampling and staging for simulations of rare events via forward flux sampling schemes [https://doi.org/10.1063/1.2953325](https://doi.org/10.1063/1.2953325)
+- Kinetics and mechanism of the unfolding native-to-loop transition of Trp-cage in explicit solvent via optimized forward flux sampling simulations [https://doi.org/10.1063/1.3474803](https://doi.org/10.1063/1.3474803)
+- Automatic, optimized interface placement in forward flux sampling simulations [https://doi.org/10.1063/1.4801866](https://doi.org/10.1063/1.4801866)
+- Contour forward flux sampling: Sampling rare events along multiple collective variables [https://doi.org/10.1063/1.5063358](https://doi.org/10.1063/1.5063358)
 
-To run this LiF dissociation simulation, with either RETIS or FFS, we will need to access a directory that allows for more storage than the home directory can provide. 
-
-- If you are new to this workshop, you will need to create a directory in the “ocean” directory (note: only for people attending the workshop). To this please run the following command: 
-
-  - “$ mkdir /ocean/projects/see220002p/$(whoami)”
-
-If Running RETIS:
-
-- Then navigate to your Ocean directory by using the following command:
-  
-  - “$ cd /ocean/projects/see220002p/$(whoami)” 
-
-- Once there, please copy over the files you would need for the demonstration today by running the following command: 
-  
-  - “$ cp -r ~/[YOUR iCoMSE DIRECTORY]/Friday/* ."
-
-
-Note: For participants without Bridges2 access, please refer to this link: [https://github.com/icomse/3rd_workshop_advanced_sampling/blob/main/settingup.md](y) for environment setup instructions.
-
+## Reviews regarding FFS and cFFS
+- Forward flux sampling for rare event simulations [http://doi.org/10.1088/0953-8984/21/46/463102](http://doi.org/10.1088/0953-8984/21/46/463102)
+- Studying rare events using forward-flux sampling: Recent breakthroughs and future outlook [https://doi.org/10.1063/1.5127780](https://doi.org/10.1063/1.5127780)
+- Practical guide to replica exchange transition interface sampling and forward flux sampling [https://doi.org/10.1063/5.0080053](https://doi.org/10.1063/5.0080053)
 
